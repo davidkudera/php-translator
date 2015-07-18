@@ -1,0 +1,19 @@
+{
+    "name": "sakren/translator",
+	"type": "library",
+	"description": "Translator for PHP",
+	"keywords": ["translator", "localization", "i18n"],
+	"homepage": "https://github.com/Carrooi/Php-Translator",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "David Kudera",
+			"email": "kudera.d@gmail.com",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"carrooi/translator": "*"
+	}
+}
+
